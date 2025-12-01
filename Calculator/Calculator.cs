@@ -15,5 +15,5 @@ public class Calculator
         return a / b;
     }
 
-    public bool IsEven(int x) => x % 4 == 0;
+    public bool IsEven(int x) => x % 3 == 0;
 }
